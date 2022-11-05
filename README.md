@@ -10,7 +10,7 @@ The search engine originally built with a REST API was converted to GraphQL API 
 
   - [Installation](#installation)
   - [Technologies](#technologies)
-  - [Credits](#credits)
+  - [Credits](#credits) 
   - [License](#license)
   - [Contribution](#contributing)
   - [Tests](#tests)
@@ -59,7 +59,7 @@ Once the database is properly installed, you can run NPM i to download the neces
   ## Questions:
 
   For any questions you may have, please visit my Github profile:
-  - [Github Profile](https://github.com/HeywardHagenbuch)
+  - [Github Profile](https://github.com/MikeJMarin25)
 
   If you have any additional questions, feel free to email them to me:
   - [Email](MikeJMarin25@gmail.com)
